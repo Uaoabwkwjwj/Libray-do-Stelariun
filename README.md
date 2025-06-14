@@ -607,7 +607,7 @@ local Crown = Create("ImageLabel", Topbar, {
     Rotation = -20,
     Size = UDim2.new(0, 75, 0, 75),
     Position = UDim2.new(0, 0, 0.1, 0),
-    Image = "rbxassetid://70754261253852",
+    Image = "rbxassetid://71030456774905",
     ImageColor3 = Color3.fromRGB(255, 255, 255)
 })
 
